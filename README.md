@@ -86,5 +86,5 @@ JavaScript · Chart.js · Python (pandas) · AI-assisted development (Gemini, Go
 ---
 
 <p align="center">
-  Made by <b>Rodrigue Awono</b> · Business Intelligence & Data Analyst → Data Engineering
+  Made by <b>Rodrigue Awono</b> · Business Intelligence & Data Analyst → Data Engineering 🔗  [LinkedIn] https://www.linkedin.com/
 </p>
