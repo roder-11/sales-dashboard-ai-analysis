@@ -26,7 +26,7 @@ This project was developed with AI assistance, and every figure was then checked
   <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white" alt="Claude">
 </p>
 
-> AI speeds up the build, but the numbers are only trusted after validation (`scripts/validate_data.py`).
+> AI speeds up the build, but the numbers are only trusted after validation.
 
 ---
 
